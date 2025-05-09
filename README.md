@@ -38,6 +38,8 @@ Principais competências técnicas:
 
 Comprometido com boas práticas de código e usabilidade, estou sempre buscando evoluir como desenvolvedor, entregando soluções com foco em escalabilidade, performance e design intuitivo.
 
+---
+
 ### Tecnologias & Ferramentas
 
 <p align="left">
@@ -68,12 +70,13 @@ Comprometido com boas práticas de código e usabilidade, estou sempre buscando 
 - [Projeto 2](https://github.com/nandohawkeye/projeto2): Integração com Firebase + animações
 
  -->
+---
 
 ### 🌐 Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/seulink)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/seuuser)
-[![Google Play](https://img.shields.io/badge/-googleplay-414141)](https://play.google.com/store/apps/dev?id=7093741402026746463)
+[![Google Play](https://img.shields.io/badge/-Google-Play-4CAF50)](https://play.google.com/store/apps/dev?id=7093741402026746463)
 
 
 <!--
