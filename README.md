@@ -1,4 +1,6 @@
-<h1 align="center">Olá, eu sou o Nando Hawkeye!</h1>
+<h1 align="center">Eaew, eu sou o Nando! 🤝</h1>
+
+<!--
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Desenvolvedor+Flutter;Apaixonado+por+UI/UX;Criando+apps+incríveis" />
@@ -7,6 +9,8 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=nandohawkeye&label=Visualizações+do+perfil&color=0e75b6&style=flat" alt="nandohawkeye" />
 </p>
+
+-->
 
 ---
 
@@ -23,9 +27,16 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" alt="Firebase" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+
+  <!--
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+
+  -->
+  
 </p>
 
 ---
