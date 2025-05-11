@@ -24,7 +24,7 @@ Sou desenvolvedor de software especializado em Flutter/Dart, com mais de 4 anos 
 
 Principais competências técnicas:
 
- • MVC, MVVM
+ • MVC, MVVM \n
  • Experiência com animações (implícitas, customizadas, Lottie, Rive)
  • Conhecimento em UX/UI Design
  • Criação de widgets reutilizáveis e altamente customizáveis
