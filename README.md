@@ -1,6 +1,6 @@
-<h1 align="center">Eaew, eu sou o Nando! 🤝</h1>
 
 <!--
+<h1 align="center">Eaew, eu sou o Nando! 🤝</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?center=true&vCenter=true&lines=Desenvolvedor+Flutter;Apaixonado+por+UI/UX;Criando+apps+incríveis" />
@@ -28,6 +28,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="30" height="30"/>
 
+
+
 Desenvolvedor Flutter com +4 anos de experiência focado em soluções mobile Android e iOS
 
 Sou desenvolvedor de software especializado em Flutter/Dart, com mais de 4 anos de experiência na criação de aplicativos móveis performáticos, escaláveis e com excelente experiência de usuário. Atuo desde a concepção da interface até a arquitetura e publicação do app.
@@ -48,6 +50,7 @@ Principais competências técnicas:
 
 Comprometido com boas práticas de código e usabilidade, estou sempre buscando evoluir como desenvolvedor, entregando soluções com foco em escalabilidade, performance e design intuitivo.
 
+  <!--
 ---
 
 ### Tecnologias & Ferramentas
@@ -62,7 +65,6 @@ Comprometido com boas práticas de código e usabilidade, estou sempre buscando 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="30" height="30"/>
 
-  <!--
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
