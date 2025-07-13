@@ -43,7 +43,7 @@ Sou um desenvolvedor Flutter focado em soluções mobile Android e iOS, com mais
   • Experiência com uso de api de mapas MapBox                                                                                        
   • Consumo de APIs com Dio, HTTP e Hasura                                                                                                         
   • Domínio de gerenciamento de estado: setState, ValueNotifier, GetX                                                                                  
-  • Experiência com versionamento de código usando Git                                                                       
+  • Experiência com versionamento de código usando Git/GitHub                                                                       
   • Experiência com animações (implícitas, customizadas, Lottie, Rive)                                                             
   • Aplicação de testes unitários para garantir qualidade de código                                                        
   • Experiência com arquiteturas MVC e MVVM                                                                              
