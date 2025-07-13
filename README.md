@@ -16,7 +16,7 @@
 
 -->
 
-### Desenvolvedor de software | Flutter | Dart | Graphql | UX/UI | Mobile
+### Engenheiro Mobile | Desenvolvedor Flutter | UX/UI
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="30" height="30"/>
@@ -30,25 +30,26 @@
 
 
 
-Desenvolvedor Flutter com +4 anos de experiência focado em soluções mobile Android e iOS
+Sou um desenvolvedor Flutter focado em soluções mobile Android e iOS, com mais de 4 anos de experiência na criação de aplicativos móveis performáticos, escaláveis e com excelente experiência de usuário. Atuo desde a concepção da interface até a arquitetura e publicação do app.Principais competências técnicas:
 
-Sou desenvolvedor de software especializado em Flutter/Dart, com mais de 4 anos de experiência na criação de aplicativos móveis performáticos, escaláveis e com excelente experiência de usuário. Atuo desde a concepção da interface até a arquitetura e publicação do app.
+  •	Arquitetura limpa: BLoC, SOLID, injeção de dependências, classes abstratas e polimorfismo
+  •	Conhecimento em UX/UI Design
+  •	Criação de widgets reutilizáveis e altamente customizávei
+  •	Experiência com uso de persistência offline NoSql ( Hive, SharedPreferences)
+  •	Experiência com uso de persistência offline baseada em SqLite (Drift)
+	•	Integrações com Apis do Firebase
+  • Experiência em criação de consultas e mutations em GraphQl
+  • Experiência em criação de consultas em SQL
+  • Experiência com uso de api de mapas MapBox
+	•	Consumo de APIs com Dio, HTTP e Hasura
+	•	Domínio de gerenciamento de estado: setState, ValueNotifier, GetX
+	•	Experiência com versionamento de código usando Git
+	•	Experiência com animações (implícitas, customizadas, Lottie, Rive)
+	•	Aplicação de testes unitários para garantir qualidade de código
+  • Experiência com arquiteturas MVC e MVVM
 
-Principais competências técnicas:
 
- • MVC, MVVM 
- • Experiência com animações (implícitas, customizadas, Lottie, Rive)
- • Conhecimento em UX/UI Design
- • Criação de widgets reutilizáveis e altamente customizáveis
- • Uso de Hive para persistência offline
- • Integrações com Firebase (autenticação) e MapBox
- • Consumo de APIs com Dio, HTTP e Hasura
- • Domínio de gerenciamento de estado: setState, ValueNotifier, GetX
- • Arquitetura limpa: BLoC, SOLID, injeção de dependências, classes abstratas e polimorfismo
- • Aplicação de testes unitários para garantir qualidade de código
-
-
-Comprometido com boas práticas de código e usabilidade, estou sempre buscando evoluir como desenvolvedor, entregando soluções com foco em escalabilidade, performance e design intuitivo.
+Sou comprometido com boas práticas de código e usabilidade, estou sempre buscando evoluir como desenvolvedor, entregando soluções com foco em escalabilidade, performance e design intuitivo.
 
   <!--
 ---
