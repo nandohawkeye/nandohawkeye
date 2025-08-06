@@ -30,22 +30,25 @@
 
 
 
-Sou um desenvolvedor Flutter focado em soluções mobile Android e iOS, com mais de 4 anos de experiência na criação de aplicativos móveis performáticos, escaláveis e com excelente experiência de usuário. Atuo desde a concepção da interface até a arquitetura e publicação do app.Principais competências técnicas:
+Sou um desenvolvedor Flutter focado em soluções mobile Android e iOS, com mais de 4 anos de experiência na criação de aplicativos móveis performáticos, escaláveis e com excelente experiência de usuário. Atuo desde a concepção da interface até a arquitetura e publicação do app.
 
-  • Arquitetura limpa: BLoC, SOLID, injeção de dependências, classes abstratas e polimorfismo                                              
+Principais competências técnicas:
+
+  • Clean Architecture e S.O.L.I.D                                              
   • Conhecimento em UX/UI Design                                                                                        
   • Criação de widgets reutilizáveis e altamente customizávei                                                                 
-  • Experiência com uso de persistência offline NoSql ( Hive, SharedPreferences)                                                
+  • Experiência com uso de persistência offline NoSql (Hive, SharedPreferences)                                                
   • Experiência com uso de persistência offline baseada em SqLite (Drift)                                                     
   • Integrações com Apis do Firebase                                                                                
   • Experiência em criação de consultas e mutations em GraphQl                                                                 
   • Experiência em criação de consultas em SQL                                                                           
-  • Experiência com uso de api de mapas MapBox                                                                                        
+  • Experiência com uso de Api de mapas MapBox                                                                                        
   • Consumo de APIs com Dio, HTTP e Hasura                                                                                                         
-  • Domínio de gerenciamento de estado: setState, ValueNotifier, GetX                                                                                  
+  • Domínio de gerenciamento de estado: BLoC/Cubit, SetState, ValueNotifier, GetX                                                                                
   • Experiência com versionamento de código usando Git/GitHub                                                                       
-  • Experiência com animações (implícitas, customizadas, Lottie, Rive)                                                             
-  • Aplicação de testes unitários para garantir qualidade de código                                                        
+  • Experiência com animações (implícitas, customizadas, Lottie, Rive) 
+  • Experiência com injeção de dependencias utilizando GetIt e Provider  
+  • Aplicação de testes unitários utilizando Mockito e Mocktail                                                        
   • Experiência com arquiteturas MVC e MVVM                                                                              
 
 
