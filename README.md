@@ -49,7 +49,7 @@ Principais competências técnicas:
   • Experiência com animações (implícitas, customizadas, Lottie, Rive)                               
   • Experiência com injeção de dependências utilizando GetIt e Provider  
   • Aplicação de testes unitários utilizando Mockito e Mocktail                                                        
-  • Experiência com arquiteturas MVC e MVVM 
+  • Experiência com arquiteturas MVC e MVVM                                                          
   • Experiência em criação de CI/CD utilizando Github Actions para automatização de testes e deploys 
 
 
