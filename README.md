@@ -45,11 +45,12 @@ Principais competências técnicas:
   • Experiência com uso de Api de mapas MapBox                                                                                        
   • Consumo de APIs com Dio, HTTP e Hasura                                                                                                         
   • Domínio de gerenciamento de estado: BLoC/Cubit, SetState, ValueNotifier, GetX                                                                                
-  • Experiência com versionamento de código usando Git/GitHub                                                                       
+  • Experiência com versionamento de código usando Git/GitHub 
   • Experiência com animações (implícitas, customizadas, Lottie, Rive) 
   • Experiência com injeção de dependencias utilizando GetIt e Provider  
   • Aplicação de testes unitários utilizando Mockito e Mocktail                                                        
-  • Experiência com arquiteturas MVC e MVVM                                                                              
+  • Experiência com arquiteturas MVC e MVVM 
+  • Experiência em criação de CI/CD utilizando Github Actions para automatização de testes e deploys 
 
 
 Sou comprometido com boas práticas de código e usabilidade, estou sempre buscando evoluir como desenvolvedor, entregando soluções com foco em escalabilidade, performance e design intuitivo.
