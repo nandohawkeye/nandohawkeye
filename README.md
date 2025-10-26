@@ -16,7 +16,7 @@
 
 -->
 
-### Engenheiro de software | Mobile | Desenvolvedor Flutter | UX/UI
+### Engenheiro de software | Flutter | JavaScript | NodeJs | UX/UI
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="30" height="30"/>
