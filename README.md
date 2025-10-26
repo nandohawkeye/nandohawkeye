@@ -32,7 +32,7 @@
 
 
 
-Sou um desenvolvedor com mais de 5 anos de experiência em Flutter, criando de aplicativos móveis performáticos, escaláveis e com excelente experiência de usuário. Atuo desde a concepção da interface até a arquitetura e publicação do app.
+Sou um desenvolvedor com mais de 5 anos de experiência em Flutter, criando aplicativos performáticos, escaláveis e com excelente experiência de usuário. Atuo desde a concepção da interface até a arquitetura e publicação do app.
 
 Principais competências técnicas:
 
