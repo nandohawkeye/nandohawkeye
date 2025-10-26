@@ -27,6 +27,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VsCode" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/javascript-original.svg" alt="Notion" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/node-original.svg" alt="Notion" width="30" height="30"/>
 
 
 
@@ -45,7 +47,7 @@ Principais competências técnicas:
   • Experiência com uso de Api de mapas MapBox                                                                                        
   • Consumo de APIs com Dio, HTTP e Hasura                                                                                                         
   • Domínio de gerenciamento de estado: BLoC/Cubit, SetState, ValueNotifier, GetX                                                                                
-  • Experiência com versionamento de código usando Git/GitHub 
+  • Experiência com versionamento de código usando Git/GitHub                                                                                                                     
   • Experiência com animações (implícitas, customizadas, Lottie, Rive)                               
   • Experiência com injeção de dependências utilizando GetIt e Provider  
   • Aplicação de testes unitários utilizando Mockito e Mocktail                                                        
