@@ -28,11 +28,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" alt="Notion" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" alt="JavaScript" width="30" height="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJs" width="30" height="30"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original.svg" alt="NPM" width="30" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-plain.svg" alt="NPM" width="30" height="30"/>
 
 
 
-Sou um desenvolvedor Flutter focado em soluções mobile Android e iOS, com mais de 4 anos de experiência na criação de aplicativos móveis performáticos, escaláveis e com excelente experiência de usuário. Atuo desde a concepção da interface até a arquitetura e publicação do app.
+Sou um desenvolvedor com mais de 5 anos de experiência em Flutter, criando de aplicativos móveis performáticos, escaláveis e com excelente experiência de usuário. Atuo desde a concepção da interface até a arquitetura e publicação do app.
 
 Principais competências técnicas:
 
