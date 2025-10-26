@@ -34,7 +34,7 @@
 
 Sou um desenvolvedor com mais de 5 anos de experiência em Flutter, criando aplicativos performáticos, escaláveis e com excelente experiência de usuário. Atuo desde a concepção da interface até a arquitetura e publicação do app.
 
-Principais competências técnicas:
+Principais competências técnicas envolvendo Flutter:
 
   • Clean Architecture e S.O.L.I.D                                              
   • Conhecimento em UX/UI Design                                                                                        
