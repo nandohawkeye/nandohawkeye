@@ -32,7 +32,7 @@
 
 
 
-Sou um desenvolvedor com mais de 5 anos de experiência em Flutter, criando aplicativos performáticos, escaláveis e com excelente experiência de usuário. Atuo desde a concepção da interface até a arquitetura e publicação do app.
+Sou um desenvolvedor com mais de 5 anos de experiência em Flutter, criando aplicativos performáticos, escaláveis e com excelente experiência de usuário. Atuo desde a concepção da interface até a arquitetura e publicação do app, sempre comprometido com boas práticas de código e usabilidade.
 
 Principais competências técnicas envolvendo Flutter:
 
@@ -53,9 +53,6 @@ Principais competências técnicas envolvendo Flutter:
   • Aplicação de testes unitários utilizando Mockito e Mocktail                                                        
   • Experiência com arquiteturas MVC e MVVM                                                          
   • Experiência em criação de CI/CD utilizando Github Actions para automatização de testes e deploys 
-
-
-Sou comprometido com boas práticas de código e usabilidade, estou sempre buscando evoluir como desenvolvedor, entregando soluções com foco em escalabilidade, performance e design intuitivo.
 
   <!--
 ---
