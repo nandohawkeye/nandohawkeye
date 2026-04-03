@@ -34,7 +34,7 @@
 Sou um desenvolvedor Flutter focado em soluções mobile Android e iOS, com mais de 5 anos de experiência na criação de aplicativos móveis performáticos, escaláveis e com excelente experiência de usuário. Atuo desde a concepção da interface até a arquitetura e publicação do app. Atualmente em transição para o desenvolvimento fullstack, com projetos práticos em Node.js e React/Next.js.
 Principais competências técnicas:
 
-Mobile:
+Mobile                                                                                                                                                      
 Clean Architecture e S.O.L.I.D
 Conhecimento em UX/UI Design
 Criação de widgets reutilizáveis e altamente customizáveis
@@ -52,7 +52,7 @@ Aplicação de testes unitários utilizando Mockito e Mocktail
 Experiência com arquiteturas MVC e MVVM
 Experiência em criação de CI/CD utilizando GitHub Actions
 
-Backend (Node.js):
+Backend (Node.js)                                                                                                                            
 Desenvolvimento de APIs REST com Node.js, Express e TypeScript
 Modelagem de banco de dados relacional com Prisma ORM e PostgreSQL (Neon)
 Autenticação segura com JWT e bcrypt
@@ -61,7 +61,7 @@ Documentação de APIs com Swagger/OpenAPI
 Deploy de aplicações Node.js na plataforma Render
 Boas práticas de segurança: CORS, variáveis de ambiente, separação de ambientes (dev/test/prod)
 
-Geral
+Geral                                                                                                                                                  
 Experiência com SQL e consultas relacionais
 Versionamento de código com Git/GitHub
 Familiaridade com arquitetura fullstack (API REST + Frontend Next.js)
