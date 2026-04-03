@@ -31,27 +31,40 @@
 
 
 
-Sou um desenvolvedor com mais de 5 anos de experiência em Flutter, criando aplicativos performáticos, escaláveis e com excelente experiência de usuário. Atuo desde a concepção da interface até a arquitetura e publicação do app, sempre comprometido com boas práticas de código e usabilidade.
+Sou um desenvolvedor Flutter focado em soluções mobile Android e iOS, com mais de 5 anos de experiência na criação de aplicativos móveis performáticos, escaláveis e com excelente experiência de usuário. Atuo desde a concepção da interface até a arquitetura e publicação do app. Atualmente em transição para o desenvolvimento fullstack, com projetos práticos em Node.js e React/Next.js.
+Principais competências técnicas:
 
-Principais competências técnicas envolvendo Flutter:
+Mobile:
+Clean Architecture e S.O.L.I.D
+Conhecimento em UX/UI Design
+Criação de widgets reutilizáveis e altamente customizáveis
+Experiência com persistência offline NoSQL (Hive, SharedPreferences)
+Experiência com persistência offline baseada em SQLite (Drift)
+Integrações com APIs do Firebase
+Integrações com ferramentas de monitoramento de falhas (Sentry, Firebase Crashlytics/Analytics)
+Experiência em criação de consultas e mutations em GraphQL
+Experiência com uso de API de mapas Mapbox
+Consumo de APIs com Dio, HTTP e Hasura
+Domínio de gerenciamento de estado: BLoC/Cubit, setState, ValueNotifier, GetX
+Experiência com animações (implícitas, customizadas, Lottie, Rive)
+Experiência com injeção de dependências utilizando GetIt e Provider
+Aplicação de testes unitários utilizando Mockito e Mocktail
+Experiência com arquiteturas MVC e MVVM
+Experiência em criação de CI/CD utilizando GitHub Actions
 
-  • Clean Architecture e S.O.L.I.D                                              
-  • Conhecimento em UX/UI Design                                                                                        
-  • Criação de widgets reutilizáveis e altamente customizávei                                                                 
-  • Experiência com uso de persistência offline NoSql (Hive, SharedPreferences)                                                
-  • Experiência com uso de persistência offline baseada em SqLite (Drift)                                                     
-  • Integrações com Apis do Firebase                                                                                
-  • Experiência em criação de consultas e mutations em GraphQl                                                                 
-  • Experiência em criação de consultas em SQL                                                                           
-  • Experiência com uso de Api de mapas MapBox                                                                                        
-  • Consumo de APIs com Dio, HTTP e Hasura                                                                                                         
-  • Domínio de gerenciamento de estado: BLoC/Cubit, SetState, ValueNotifier, GetX                                                                                
-  • Experiência com versionamento de código usando Git/GitHub                                                                                                                     
-  • Experiência com animações (implícitas, customizadas, Lottie, Rive)                               
-  • Experiência com injeção de dependências utilizando GetIt e Provider  
-  • Aplicação de testes unitários utilizando Mockito e Mocktail                                                        
-  • Experiência com arquiteturas MVC e MVVM                                                          
-  • Experiência em criação de CI/CD utilizando Github Actions para automatização de testes e deploys 
+Backend (Node.js):
+Desenvolvimento de APIs REST com Node.js, Express e TypeScript
+Modelagem de banco de dados relacional com Prisma ORM e PostgreSQL (Neon)
+Autenticação segura com JWT e bcrypt
+Testes de integração com Jest e Supertest
+Documentação de APIs com Swagger/OpenAPI
+Deploy de aplicações Node.js na plataforma Render
+Boas práticas de segurança: CORS, variáveis de ambiente, separação de ambientes (dev/test/prod)
+
+Geral
+Experiência com SQL e consultas relacionais
+Versionamento de código com Git/GitHub
+Familiaridade com arquitetura fullstack (API REST + Frontend Next.js)
 
   <!--
 ---
